@@ -2,7 +2,7 @@
   "main": {
     "name": "Rohan Paul",
     "occupation": "React and ReactNative Front End Engineer ",
-    "description": "Building products in Web and Mobile over the lat 2 years working in very early stage startup world.",
+    "description": "Building products for Mobile and Web over the last 2 years working in very early stage startup world.",
     "image": "profilepic.jpg",
     "bio": "MBA (Finance) by academic qualification, however I made a drastic career transformation from International Banking to Software Engineering for my love of coding & building products.  After 10 years of working in Global Investment banking credit risk & financial analysis (of which last 3 years was in Deutsche Bank, Sydney, Australia), I started my Software Engineering journey in mid-2018, after completing a three-month full-time web-development bootcamp . I am also an active programming blogger.",
     "address": {
@@ -102,78 +102,76 @@
     ],
     "skills": [
       {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
         "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
         "level": "90%"
       },
       {
-        "name": "HTML5",
+        "name": "React-Native",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript/ES6",
         "level": "80%"
       },
       {
-        "name": "VueJs",
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Node/Express",
         "level": "50%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "A Landing Page Theme (for a school website)",
-        "category": "Built with React, including Login Functionality with json-web-token and Passport middleware authentication ",
-        "image": "children.jpg",
-        "url": "https://bloomingbud.netlify.com/"
+        "title": "School Website, built with React, including Login Functionality with json-web-token and Passport middleware authentication",
+        "image": "kids-school.gif",
+        "url": "https://bloomingbud.netlify.com/",
+        "github": "https://github.com/rohan-paul/react-theme-1"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Material-ui Table with Node and Mongodb",
+        "image": "MUI-table.gif",
+        "url": "https://steel-aileron-266311.appspot.com/",
+        "github": "https://github.com/rohan-paul/material-ui-table-with-node-mongodb"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "A stock-analytics dashboard with React, Highcharts, @vs (charting library) and using financial-analytics data from www.worldtradingdata.com, api.iextrading.com and financialmodelingprep.com. ",
+        "image": "stock-analytics.gif",
+        "url": "https://stock-analytics-dashboard.netlify.com/",
+        "github": "https://github.com/rohan-paul/stock-dashboard-react"
       },
       {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Searching the most popular Github users (by followers count)  in a City",
+        "image": "search-most-popular-github-users.gif",
+        "url": "https://popular-github-user.netlify.com/",
+        "github": "https://github.com/rohan-paul/find-most-popular-github-user-in-your-city"
       },
       {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "title": "Public Transit Route repository which also keep record of live google map bus-stops polymap. Front end is in React-Redux, and backend is in Node/Express and MongoDB",
+        "image": "Route-repository.png",
+        "url": "https://cholo-app-exercise.appspot.com/",
+        "github": "https://github.com/rohan-paul/react-node-mongo-busroute-app"
       },
       {
-        "text": "That Rohan Paul must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "title": "Movie-Finder-React-Native",
+        "image": "movie-finder.gif",
+        "url": "https://github.com/rohan-paul/Movie-Finder-React-Native",
+        "github": "https://github.com/rohan-paul/Movie-Finder-React-Native"
       }
     ]
   }

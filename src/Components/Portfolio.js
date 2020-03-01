@@ -10,16 +10,24 @@ class Portfolio extends Component {
             <div className="item-wrap">
               <a href={projects.url} title={projects.title} target="_blank">
                 >
-                <img alt={projects.title} src={projectImage} />
+                <img
+                  alt={projects.title}
+                  src={projectImage}
+                  style={{ resizeMode: "cover" }}
+                />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>{projects.title}</h5>
-                    <p>{projects.category}</p>
                   </div>
                 </div>
                 <div className="link-icon">
                   <i className="fa fa-link"></i>
                 </div>
+              </a>
+            </div>
+            <div>
+              <a href={projects.github} target="_blank">
+                Github Source Code
               </a>
             </div>
           </div>
@@ -31,7 +39,7 @@ class Portfolio extends Component {
       <section id="portfolio">
         <div className="row">
           <div className="twelve columns collapsed">
-            <h1>Check Out Some of My Works.</h1>
+            <h1>Check Out Some of My Side Projects</h1>
 
             <div
               id="portfolio-wrapper"
