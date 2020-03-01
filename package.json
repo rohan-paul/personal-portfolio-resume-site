@@ -1,0 +1,61 @@
+{
+  "name": "personalportfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.3.5",
+    "react-scripts": "3.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.0.2",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^8.0.3",
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "cloc": "^2.5.1",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "18.0.1",
+    "eslint-config-prettier": "6.9.0",
+    "eslint-config-standard": "14.1.0",
+    "eslint-config-standard-react": "9.2.0",
+    "eslint-plugin-babel": "5.3.0",
+    "eslint-plugin-import": "2.20.0",
+    "eslint-plugin-jsx-a11y": "6.2.3",
+    "eslint-plugin-node": "11.0.0",
+    "eslint-plugin-prettier": "3.1.2",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-react": "7.18.0",
+    "eslint-plugin-react-hooks": "2.3.0",
+    "eslint-plugin-standard": "4.0.1",
+    "prettier": "^1.14.3",
+    "react-test-renderer": "^16.12.0",
+    "redux-mock-store": "^1.5.4",
+    "sinon": "^8.0.4"
+  }
+}

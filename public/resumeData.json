@@ -1,0 +1,180 @@
+{
+  "main": {
+    "name": "Rohan Paul",
+    "occupation": "React and ReactNative Front End Engineer ",
+    "description": "Building products in Web and Mobile over the lat 2 years working in very early stage startup world.",
+    "image": "profilepic.jpg",
+    "bio": "MBA (Finance) by academic qualification, however I made a drastic career transformation from International Banking to Software Engineering for my love of coding & building products.  After 10 years of working in Global Investment banking credit risk & financial analysis (of which last 3 years was in Deutsche Bank, Sydney, Australia), I started my Software Engineering journey in mid-2018, after completing a three-month full-time web-development bootcamp . I am also an active programming blogger.",
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560001"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/open?id=1N9KpbKCIglP_hTfCf9j1Gk9Ok6g6J0Om",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/rohan.paul.562",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/paulr_rohan",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rohan-paul-b27285129/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/rohan-paul",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "medium",
+        "url": "https://medium.com/@paulrohan",
+        "className": "fa fa-globe"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "React-Native, React/Redux whole ecosystem",
+    "education": [
+      {
+        "school": "The Hacking School",
+        "degree": "Full Stack Programming Bootcamp",
+        "graduated": "March 2018",
+        "description": "Completed a full-time three months full-stack bootcamp where I learned and did projects in Mongo, React, Node, Express stack "
+      },
+      {
+        "school": "Bangalore University",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2007",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Atlantis Capital (very early stage startup in stealth mode)",
+        "title": "Software Engineer",
+        "years": "June 2019 - Dec 2019",
+        "description": "Developing the complete web and mobile front-end of our Fin-Tech app in React-Redux and React-Native respectively from Sketch / Zeplin file given by design team.  Achieving pixel-perfection and strict adherence to principles of responsiveness."
+      },
+      {
+        "company": "Volteo",
+        "title": "Associate Software Engineer",
+        "years": "Sept 2018 - June 2019",
+        "description": "Worked in full-stack web-application projects with React, Redux, Node, Express, MongoDB, building and automating Shipping/Port system’s physical assets and manual documentation processes through Web Applications. Built and deployed two full end-to-end applications."
+      },
+      {
+        "company": "Deutsche Bank",
+        "title": "Associate–Credit Risk Management",
+        "years": "Nov-2010 - Nov-2013",
+        "description": "Was chosen internally to move internationally from Deutsche Bank-Mumbai to Deutsche Bank-Sydney because of my high performance. In Sydney managed a portfolio of ~50 large industrial companies mitigating credit losses. (These companies are corporate clients of Deutsche Bank, having a minimum market value of $500mn )."
+      },
+      {
+        "company": "Deutsche Bank",
+        "title": "Team Manager of North-American Credit Analysis Team",
+        "years": "Dec-2007 - Nov-2010",
+        "description": "Financial Analysis and Financial Model building (of corporate clients of Deutsche Bank) credit rating & writing the report. I was responsible for a portfolio of 80 large companies spanning North-American-Insurance sector, USA government Municipalities and few large Banks."
+      },
+      {
+        "company": "Adventity Mumbai",
+        "title": "Associate–Credit Research",
+        "years": "July-2007 - Dec-2007",
+        "description": "Worked on financial forecast model building (Excel based) of private equity clients of Advenity and supporting the onshore analysts in maintaining and building valuation models (based on fundamental financial analysis)."
+      },
+      {
+        "company": "HSBC Bangalore",
+        "title": "Team Leader of US Financial Group Credit Analysis Team ",
+        "years": "November-2005 - July-2007 ",
+        "description": "Financial analysis, Credit ratings and credit report writing for HSBC’s corporate clients"
+      },
+      {
+        "company": "HSBC Bangalore",
+        "title": "Associate – Finance & Management Information Analytics / ",
+        "years": "Feb-2004 - Nov-2005 ",
+        "description": "Worked on Business intelligence reporting to HSBC senior management, using query tools like BusinessObject that will hit a SQL database"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "A Landing Page Theme (for a school website)",
+        "category": "Built with React, including Login Functionality with json-web-token and Passport middleware authentication ",
+        "image": "children.jpg",
+        "url": "https://bloomingbud.netlify.com/"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Rohan Paul must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
