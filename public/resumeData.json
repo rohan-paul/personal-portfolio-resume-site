@@ -2,7 +2,7 @@
   "main": {
     "name": "Rohan Paul",
     "occupation": "React and ReactNative Front End Engineer ",
-    "description": "Building products for Mobile and Web over the last 2 years working in very early stage startup world.",
+    "description": "Building products for Mobile and Web over the last 2 years working in very early stage startup world. Made a drastic career transformation from International Banking to Software Engineering for my love of coding & building products. Worked for 10 years in global Investment banking credit risk & financial analysis across India, Australia and USA.",
     "image": "profilepic.jpg",
     "bio": "MBA (Finance) by academic qualification, however I made a drastic career transformation from International Banking to Software Engineering for my love of coding & building products.  After 10 years of working in Global Investment banking credit risk & financial analysis (of which last 3 years was in Deutsche Bank, Sydney, Australia), I started my Software Engineering journey in mid-2018, after completing a three-month full-time web-development bootcamp . I am also an active programming blogger.",
     "address": {
@@ -131,7 +131,7 @@
       },
       {
         "name": "Git",
-        "level": "85%"
+        "level": "90%"
       }
     ]
   },

@@ -9,7 +9,6 @@ class Portfolio extends Component {
           <div key={projects.title} className="columns portfolio-item">
             <div className="item-wrap">
               <a href={projects.url} title={projects.title} target="_blank">
-                >
                 <img
                   alt={projects.title}
                   src={projectImage}
