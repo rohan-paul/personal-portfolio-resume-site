@@ -58,49 +58,49 @@
     ],
     "work": [
       {
-        "company": "Tengio",
+        "company": "Tengio (Bangalore, India)",
         "title": "Software Engineer",
         "years": "Dec 2019 - Feb 2019",
         "description": "Developing Web Application with React and Redux. Some serverless implementation with AWS Lambda."
       },
       {
-        "company": "Atlantis Capital (very early stage startup in stealth mode)",
+        "company": "Atlantis Capital (early stage startup), Bangalore, India ",
         "title": "Software Engineer",
         "years": "June 2019 - Dec 2019",
         "description": "Developing the complete web and mobile front-end of our Fin-Tech app in React-Redux and React-Native respectively from Sketch / Zeplin file given by design team.  Achieving pixel-perfection and strict adherence to principles of responsiveness."
       },
       {
-        "company": "Volteo",
+        "company": "Volteo (Hyderabad, India)",
         "title": "Associate Software Engineer",
         "years": "Sept 2018 - June 2019",
         "description": "Worked in full-stack web-application projects with React, Redux, Node, Express, MongoDB, building and automating Shipping/Port system’s physical assets and manual documentation processes through Web Applications. Built and deployed two full end-to-end applications."
       },
       {
-        "company": "Deutsche Bank",
+        "company": "Deutsche Bank (Sydney, Australia) ",
         "title": "Associate–Credit Risk Management",
         "years": "Nov-2010 - Nov-2013",
         "description": "Was chosen internally to move internationally from Deutsche Bank-Mumbai to Deutsche Bank-Sydney because of my high performance. In Sydney managed a portfolio of ~50 large industrial companies mitigating credit losses. (These companies are corporate clients of Deutsche Bank, having a minimum market value of $500mn )."
       },
       {
-        "company": "Deutsche Bank",
+        "company": "Deutsche Bank (Mumbai, India)",
         "title": "Team Manager of North-American Credit Analysis Team",
         "years": "Dec-2007 - Nov-2010",
         "description": "Financial Analysis and Financial Model building (of corporate clients of Deutsche Bank) credit rating & writing the report. I was responsible for a portfolio of 80 large companies spanning North-American-Insurance sector, USA government Municipalities and few large Banks."
       },
       {
-        "company": "Adventity Mumbai",
+        "company": "Adventity Mumbai (Mumbai, India)",
         "title": "Associate–Credit Research",
         "years": "July-2007 - Dec-2007",
         "description": "Worked on financial forecast model building (Excel based) of private equity clients of Advenity and supporting the onshore analysts in maintaining and building valuation models (based on fundamental financial analysis)."
       },
       {
-        "company": "HSBC Bangalore",
+        "company": "HSBC Bangalore (Bangalore, India)",
         "title": "Team Leader of US Financial Group Credit Analysis Team ",
         "years": "November-2005 - July-2007 ",
         "description": "Financial analysis, Credit ratings and credit report writing for HSBC’s corporate clients"
       },
       {
-        "company": "HSBC Bangalore",
+        "company": "HSBC Bangalore (Bangalore, India)",
         "title": "Associate – Finance & Management Information Analytics / ",
         "years": "Feb-2004 - Nov-2005 ",
         "description": "Worked on Business intelligence reporting to HSBC senior management, using query tools like BusinessObject that will hit a SQL database"

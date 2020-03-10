@@ -25,4 +25,11 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
+  "cSpell.words": [
+    "Advenity",
+    "Adventity",
+    "Tengio",
+    "Volteo",
+    "Zeplin"
+  ],
 }
