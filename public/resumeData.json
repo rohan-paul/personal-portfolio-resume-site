@@ -58,6 +58,12 @@
     ],
     "work": [
       {
+        "company": "Tengio",
+        "title": "Software Engineer",
+        "years": "Dec 2019 - Feb 2019",
+        "description": "Developing Web Application with React and Redux. Some serverless implementation with AWS Lambda."
+      },
+      {
         "company": "Atlantis Capital (very early stage startup in stealth mode)",
         "title": "Software Engineer",
         "years": "June 2019 - Dec 2019",
